@@ -2,7 +2,7 @@
 
 ## Learning Outcomes:
 
-By the end of instructions, learners will be able to:
+By the end of instruction, learners will be able to:
 
     - Describe why formative assessment is essential in learning and teaching
     - Explain how formative assessment can be used by learners
