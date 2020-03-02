@@ -42,11 +42,11 @@ By the end of the lesson (session/course/instruction) the successful learner wil
 4. Replace dots with a verb that you can assess (name, explain, solve, distinguish, etc.).
 5. Avoid verbs that are open to many interpretations: e.g., appreciate, have faith in, know, learn, understand, believe
 
-[example_pitagora_theorem](./images/pitagora_theorem.png)
+![example_pitagora_theorem](./images/pitagora_theorem.png)
 
-[assessable_verbs](./image/assessable_verbs.png)
+![assessable_verbs](./image/assessable_verbs.png)
 
-[bloom_verbs](./images/bloom_verbs.png)
+![bloom_verbs](./images/bloom_verbs.png)
 
 > ### Exercise 1 (8 min) - How do I write LOs?
 
@@ -58,7 +58,7 @@ By the end of the lesson (session/course/instruction) the successful learner wil
 
 Q: what are the different ways we can categorise assessment?
 
-[categories_of_assessment](./images/assessment_categories.pg)
+![categories_of_assessment](./images/assessment_categories.pg)
 
 ### Assessment timeline - when and why to assess
 
