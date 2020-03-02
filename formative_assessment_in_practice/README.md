@@ -10,7 +10,7 @@ By the end of instruction, learners will be able to:
 - Use a Classroom Response System as a formative assessment tool
 
 ## Lesson part I and part II
-Part I: Assessment in the context of instructional design - Learning Outcomes, Learning Experiences, Content, Assessment, Evaluation
-Part II: Formative assessment and how to do it
+- Part I: Assessment in the context of instructional design - Learning Outcomes, Learning Experiences, Content, Assessment, Evaluation
+- Part II: Formative assessment and how to do it
 
 [Assessment and feedback in teaching and training](./lesson.md)
