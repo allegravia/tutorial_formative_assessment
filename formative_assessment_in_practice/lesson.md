@@ -85,12 +85,22 @@ Q: what are the different ways we can categorise assessment?
 
 ### Formative assessment can be done in many different ways:
 
-- Asking questions to learners and getting responses orally;
-- Asking them to describe the strategy they would adopt to solve a problem;
-- Asking them to solve a problem in groups, or individually but in front of the class;
-- Using brainstorming and discussions;
-- Providing diagnostic questionnaires;
+- Asking **questions** to learners and getting responses orally;
+- Asking them to **describe the strategy** they would adopt to solve a problem;
+- Asking them to **solve a problem in groups**, or individually but in front of the class;
+- Using **brainstorming** and **discussions**;
+- Providing **diagnostic questionnaires**;
 
+### Pre-course assessment - Diagnostic questionnaires
+
+**Anonymous questionnaires** allow to have an idea of the level of knowledge of the whole group of learners.
+
+**Non-anonymous** and personal questionnaires allow to find out if the learner has a necessary pre-required knowledge, 
+in the negative case indicate an appropriate teaching choice to palliate this lack.
+
+> ### Exercise 3 (8 minutes): Assessing the achievement of Learning Outcomes 
+> 1. Think about a few questions that could be used to assess whether the students have achieved the LOs you have identified for your lesson
+> 2. Write them in the Google Doc
 
 
 
