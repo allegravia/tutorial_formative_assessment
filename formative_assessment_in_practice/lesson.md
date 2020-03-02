@@ -58,7 +58,7 @@ By the end of the lesson (session/course/instruction) the successful learner wil
 
 Q: what are the different ways we can categorise assessment?
 
-![categories_of_assessment](./images/assessment_categories.pg)
+![categories_of_assessment](./images/assessment_categories.png)
 
 ### Assessment timeline - when and why to assess
 
