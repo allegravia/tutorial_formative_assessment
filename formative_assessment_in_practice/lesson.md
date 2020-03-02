@@ -44,7 +44,7 @@ By the end of the lesson (session/course/instruction) the successful learner wil
 
 ![example_pitagora_theorem](./images/pitagora_theorem.png)
 
-![assessable_verbs](./image/assessable_verbs.png)
+![assessable_verbs](./images/assessable_verbs.png)
 
 ![bloom_verbs](./images/bloom_verbs.png)
 
