@@ -14,4 +14,4 @@ Develop an understanding of different types of tools for formative assessment, w
 # Part I: Assessment in the context of instructional design 
 > Learning Outcomes, Learning Experiences, Content, Assessment, Evaluation
 
-![instruction_design](/images/instruction_design.png)
+![instruction_design](./images/instruction_design.png)
