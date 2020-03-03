@@ -9,7 +9,8 @@ Develop an understanding of different types of tools for formative assessment, w
 
 ## Learning outcomes
 - Explain the importance of formative assessment in the context of instruction design
-- List and describe a few techniques for formative assessment
+- List a few techniques for formative assessment
+- Describe at least one tool for formative assessment
 
 # Part I: Assessment in the context of instructional design 
 > Learning Outcomes, Learning Experiences, Content, Assessment, Evaluation
