@@ -7,4 +7,6 @@
 5. Write prerequisites for one of your lessons
 6. Write Learning Outcomes (LOs) for the lesson
 7. Prepare a diagnostic questionnaire assessing whether learners have Knowledge, Skills and Abilities (KSAs) required to follow and understand the lesson
-8. Prepare a questionnaire assessing whether learners have achieved the LOs of the lesson
+8. Send the link to yourself and to a colleague
+9. Answer the questionnaire
+10. Look at responses (on the fly)
